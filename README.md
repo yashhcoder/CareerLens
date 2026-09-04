@@ -46,6 +46,7 @@ CareerLens/
 ├── agent_instructions.md   # Agent build instructions
 ├── .env.example            # Environment variable template
 ├── data/                   # O*NET CSV dataset files
+    └──dataset.zip                  
 └── models/
     └── model.pkl           # Trained model + artifacts
 ```
