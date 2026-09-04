@@ -80,7 +80,7 @@ The app will open at [http://localhost:8501](http://localhost:8501).
 ## Streamlit Community Cloud Deployment
 
 1. Push this repository to GitHub (include `data/` and `models/model.pkl`, or re-run training in the cloud).
-2. Go to [share.streamlit.io](https://share.streamlit.io).
+2. Go to [share.streamlit.io](https://careerlenai.streamlit.app/).
 3. Connect your GitHub repo.
 4. Set **Main file path** to `app.py`.
 5. Click **Deploy**.
